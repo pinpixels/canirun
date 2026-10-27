@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/pinpixels/canirun/security/advisories/new
+    about: Report security problems privately.
+  - name: Help
+    url: https://pinpixels.github.io/canirun/help.html
+    about: Read the help first.
